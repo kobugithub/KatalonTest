@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Elements</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Budi Atmoko</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Budi Atmoko</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>7d0abfc0-334c-41ab-9d4f-a970afe02ba3</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>7d0abfc0-334c-41ab-9d4f-a970afe02ba3</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c116f4c-8fd0-41e6-9ca5-2c1bbcf078e6</testCaseGuid>
+</TestCaseEntity>
